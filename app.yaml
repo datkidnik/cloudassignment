@@ -5,4 +5,4 @@ api_version: 1
 
 handlers:
 - url: /.*
-  script: ass1.php
+  script: hello.php
